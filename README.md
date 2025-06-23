@@ -12,8 +12,8 @@ Deployed using **Google Cloud Platform (GCP)** — fully containerized, serverle
 
 ## 🖼️ UI Preview
 
-![Weather App UI](![weather-ui-preview](https://github.com/user-attachments/assets/5629b797-c028-49d1-a73d-f02ba10c3c17)
-)
+![weather-ui-preview](https://github.com/user-attachments/assets/3a029be9-b1ca-4973-8da1-9a43f8ec645c)
+
 
 
 ## ☁️ GCP Services Used
