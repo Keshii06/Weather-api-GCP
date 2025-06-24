@@ -72,8 +72,6 @@ weather-api/
 
 Clean UI to enter any city
 Real-time weather display (temperature, humidity, sky condition)
-Automatically defaults to Mumbai if no city entered
-Handles invalid city errors
 Responsive and lightweight
 
 
