@@ -59,6 +59,7 @@ gcloud run deploy weather-api \
   --region asia-south1 \
   --allow-unauthenticated \
   --set-env-vars OPENWEATHER_API_KEY=your_actual_key
+
 📁 Project Structure
 
 weather-api/
@@ -68,6 +69,7 @@ weather-api/
 ├── weather-ui-preview..jpeg
 ├── templates/
 │   └── index.html
+
 ✨ Features
 
 Clean UI to enter any city
